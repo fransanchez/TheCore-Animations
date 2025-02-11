@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/TheCore_Animations/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/AM_Equip.uasset",
+				"D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/BP_MyCharacter.uasset",
+				"D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset",
 				"D:/Unreal Projects/AnimacionesGuays/Content/Death_1.uasset",
 				"D:/Unreal Projects/AnimacionesGuays/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
 				"D:/Unreal Projects/AnimacionesGuays/Content/Characters/MiPersonaje/BP_MyCharacter.uasset",
