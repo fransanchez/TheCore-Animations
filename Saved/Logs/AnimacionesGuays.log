@@ -1622,3 +1622,11 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2025.02.12-17.44.42:754][203]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/MiPersonaje/BP_MyCharacter_Auto1
 [2025.02.12-17.44.42:754][203]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/BP_MyCharacter_Auto183BAD90D4589089530254EBBF76623D6.tmp' to 'D:/Unreal Projects/TheCore_Animations/Saved/Autosaves/Game/Characters/MiPersonaje/BP_MyCharacter_Auto1.uasset'
 [2025.02.12-17.44.42:755][203]LogFileHelpers: Auto-saving content packages took 0.167
+[2025.02.12-17.45.22:383][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.02.12-17.45.22:388][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-17.45.22:452][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/BP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/BP_MyCharacter.uasset" SILENT=true
+[2025.02.12-17.45.22:478][260]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/BP_MyCharacter
+[2025.02.12-17.45.22:478][260]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/BP_MyCharacter0A2E43D948F876DBE5A51FAAAE711EA8.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/BP_MyCharacter.uasset'
+[2025.02.12-17.45.22:486][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 916 ms)
+[2025.02.12-17.45.22:488][260]AssetCheck: New page: Asset Save: BP_MyCharacter
+[2025.02.12-17.45.22:488][260]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/MiPersonaje/BP_MyCharacter.BP_MyCharacter
