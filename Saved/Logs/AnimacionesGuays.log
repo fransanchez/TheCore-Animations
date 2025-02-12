@@ -2071,3 +2071,1129 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2025.02.12-17.58.12:692][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
 [2025.02.12-17.58.12:726][725]LogPlayLevel: Display: Destroying online subsystem :Context_29
 [2025.02.12-17.58.29:966][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.02.12-18.00.21:952][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10652.901367
+[2025.02.12-18.00.22:937][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-18.00.22:937][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10653.569336, Update Interval: 340.793488
+[2025.02.12-18.05.01:196][350]LogDerivedDataCache: C:/Users/frans/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.121 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3497 files in 4333 folders with total size 55 MiB.
+[2025.02.12-18.06.48:292][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11039.215820
+[2025.02.12-18.06.49:298][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-18.06.49:298][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11039.887695, Update Interval: 329.422272
+[2025.02.12-18.13.15:119][832]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11426.004883
+[2025.02.12-18.13.16:111][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-18.13.16:111][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11426.663086, Update Interval: 326.360657
+[2025.02.12-18.19.40:803][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11811.679688
+[2025.02.12-18.19.41:803][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-18.19.41:803][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11812.345703, Update Interval: 356.268188
+[2025.02.12-18.26.22:488][194]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12213.340820
+[2025.02.12-18.26.23:495][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-18.26.23:495][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12213.999023, Update Interval: 338.403870
+[2025.02.12-18.32.57:494][379]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12608.326172
+[2025.02.12-18.32.58:509][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-18.32.58:510][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12608.993164, Update Interval: 317.217926
+[2025.02.12-18.38.49:524][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12960.315430
+[2025.02.12-18.38.50:525][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-18.38.50:525][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12960.966797, Update Interval: 327.360443
+[2025.02.12-18.44.48:539][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13319.302734
+[2025.02.12-18.44.49:536][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-18.44.49:536][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13319.969727, Update Interval: 347.517334
+[2025.02.12-18.51.34:224][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13724.961914
+[2025.02.12-18.51.35:223][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-18.51.35:223][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13725.621094, Update Interval: 322.191223
+[2025.02.12-18.57.39:241][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14089.961914
+[2025.02.12-18.57.40:237][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-18.57.40:237][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14090.631836, Update Interval: 333.838928
+[2025.02.12-18.59.53:581][227]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 984...f4d
+[2025.02.12-18.59.53:581][227]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.89 RefreshExpires: 1.552e+07
+[2025.02.12-18.59.54:581][230]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 984...f4d Access[Expires: 2025.02.12-20.59.55 Remaining: 7200.02] Refresh[Expires: 2025-08-11T11:21:50.570Z Remaining: 15524515.57] State: Valid
+[2025.02.12-19.04.08:981][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14479.690430
+[2025.02.12-19.04.09:974][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-19.04.09:974][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14480.357422, Update Interval: 316.932281
+[2025.02.12-19.05.01:361][150]LogDerivedDataCache: C:/Users/frans/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.286 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3497 files in 4333 folders with total size 55 MiB.
+[2025.02.12-19.10.19:664][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14850.332031
+[2025.02.12-19.10.20:674][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-19.10.20:674][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14850.996094, Update Interval: 348.154541
+[2025.02.12-19.16.42:017][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15232.653320
+[2025.02.12-19.16.43:019][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-19.16.43:019][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15233.321289, Update Interval: 350.465393
+[2025.02.12-19.23.21:796][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15632.419922
+[2025.02.12-19.23.22:796][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-19.23.22:796][454]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15633.085938, Update Interval: 300.772736
+[2025.02.12-19.29.16:202][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15986.802734
+[2025.02.12-19.29.17:205][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-19.29.17:205][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15987.468750, Update Interval: 338.918427
+[2025.02.12-19.35.31:050][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16361.628906
+[2025.02.12-19.35.32:045][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-19.35.32:045][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16362.300781, Update Interval: 306.943573
+[2025.02.12-19.41.27:917][708]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16718.603516
+[2025.02.12-19.41.28:917][711]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-19.41.28:918][711]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16719.271484, Update Interval: 330.068665
+[2025.02.12-19.47.49:601][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17100.378906
+[2025.02.12-19.47.50:595][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-19.47.50:595][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17101.042969, Update Interval: 351.388275
+[2025.02.12-19.54.22:027][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17492.894531
+[2025.02.12-19.54.23:040][ 33]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-19.54.23:041][ 33]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17493.564453, Update Interval: 319.094818
+[2025.02.12-20.00.35:727][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17866.720703
+[2025.02.12-20.00.36:724][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-20.00.36:724][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17867.373047, Update Interval: 325.119171
+[2025.02.12-20.05.01:161][947]LogDerivedDataCache: C:/Users/frans/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.085 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3497 files in 4333 folders with total size 55 MiB.
+[2025.02.12-20.06.33:742][225]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18224.869141
+[2025.02.12-20.06.34:733][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-20.06.34:733][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18225.535156, Update Interval: 355.074310
+[2025.02.12-20.13.09:763][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18621.042969
+[2025.02.12-20.13.10:758][416]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-20.13.10:758][416]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18621.703125, Update Interval: 338.977020
+[2025.02.12-20.19.45:580][597]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19015.914062
+[2025.02.12-20.19.46:582][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-20.19.46:582][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19016.582031, Update Interval: 317.606140
+[2025.02.12-20.25.42:625][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19373.041016
+[2025.02.12-20.25.43:617][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-20.25.43:617][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19373.710938, Update Interval: 348.178345
+[2025.02.12-20.32.13:059][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19763.591797
+[2025.02.12-20.32.14:062][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-20.32.14:062][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19764.269531, Update Interval: 332.925201
+[2025.02.12-20.38.20:936][164]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.12-20.38.20:962][164]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.12-20.38.20:972][165]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.12-20.38.22:014][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20132.386719
+[2025.02.12-20.38.22:025][292]LogContentBrowser: Attempting asset rename: NewFolder -> Lean
+[2025.02.12-20.38.22:025][292]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.12-20.38.22:160][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-20.38.22:160][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20132.527344, Update Interval: 312.317871
+[2025.02.12-20.38.39:598][675]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ExtraAnimations/Lean/MM_Run_Fwd.MM_Run_Fwd
+[2025.02.12-20.38.39:695][676]LogAnimationCompression: Display: Storing compressed animation data for /Game/ExtraAnimations/Lean/MM_Run_Fwd.MM_Run_Fwd, at AnimationSequence/c97cd44d923235a8f3efe1b4a79c27e98474d47c
+[2025.02.12-20.38.50:835][847]LogContentBrowser: Attempting asset rename: MM_Run_Fwd -> Lean_Left
+[2025.02.12-20.38.50:869][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.38.50:935][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraAnimations/Lean/Lean_Left" FILE="D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/Lean_Left.uasset" SILENT=true
+[2025.02.12-20.38.50:946][847]LogSavePackage: Moving output files for package: /Game/ExtraAnimations/Lean/Lean_Left
+[2025.02.12-20.38.50:946][847]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/Lean_Left51782D9A45E7B2A528072C9DA072DC81.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/Lean_Left.uasset'
+[2025.02.12-20.38.50:965][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.90 sec)
+[2025.02.12-20.38.50:990][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.12-20.38.51:009][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.02.12-20.38.51:023][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.02.12-20.38.51:024][847]AssetCheck: New page: Asset Save: Lean_Left
+[2025.02.12-20.38.51:024][847]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ExtraAnimations/Lean/Lean_Left.Lean_Left
+[2025.02.12-20.38.52:223][989]LogContentBrowser: Deferred new asset file creation: Lean_Left1
+[2025.02.12-20.38.52:229][989]LogContentBrowser: Creating deferred item: Lean_Left1
+[2025.02.12-20.38.52:240][990]LogContentBrowser: Renaming the item being created (Deferred Item: Lean_Left1).
+[2025.02.12-20.38.53:052][ 88]LogContentBrowser: Attempting asset rename: Lean_Left1 -> Lean_Left1
+[2025.02.12-20.38.53:075][ 88]LogContentBrowser: End creating deferred item Lean_Left1
+[2025.02.12-20.39.03:658][202]LogContentBrowser: Attempting asset rename: Lean_Left1 -> Lean_Right
+[2025.02.12-20.39.03:684][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.39.03:744][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraAnimations/Lean/Lean_Right" FILE="D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/Lean_Right.uasset" SILENT=true
+[2025.02.12-20.39.03:755][202]LogSavePackage: Moving output files for package: /Game/ExtraAnimations/Lean/Lean_Right
+[2025.02.12-20.39.03:755][202]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/Lean_RightA55E9A6B4BBBBD7AAAED319BB93C4A70.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/Lean_Right.uasset'
+[2025.02.12-20.39.03:774][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.99 sec)
+[2025.02.12-20.39.03:795][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.02.12-20.39.03:813][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.02.12-20.39.03:830][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.02.12-20.39.03:830][202]AssetCheck: New page: Asset Save: Lean_Right
+[2025.02.12-20.39.03:830][202]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ExtraAnimations/Lean/Lean_Right.Lean_Right
+[2025.02.12-20.39.07:387][303]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ExtraAnimations/Lean/Lean_Left.Lean_Left
+[2025.02.12-20.39.07:387][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-20.39.07:387][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-20.39.07:396][303]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.12-20.39.07:739][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-20.39.07:739][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-20.39.07:866][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-20.39.07:866][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-20.39.07:883][303]LogViewport: Scene viewport resized to 1798x609, mode Windowed.
+[2025.02.12-20.39.07:903][303]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.02.12-20.39.09:426][393]LogViewport: Scene viewport resized to 1796x623, mode Windowed.
+[2025.02.12-20.39.09:526][395]LogViewport: Scene viewport resized to 512x128, mode Windowed.
+[2025.02.12-20.39.09:550][396]LogViewport: Scene viewport resized to 406x87, mode Windowed.
+[2025.02.12-20.39.09:829][419]LogViewport: Scene viewport resized to 889x605, mode Windowed.
+[2025.02.12-20.39.10:653][510]LogSlate: Window 'Lean_Left' being destroyed
+[2025.02.12-20.39.45:458][217]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ExtraAnimations/Lean/Lean_Left.Lean_Left
+[2025.02.12-20.39.45:782][248]LogAnimationCompression: Display: Storing compressed animation data for /Game/ExtraAnimations/Lean/Lean_Left.Lean_Left, at AnimationSequence/3bac6247e84d982883072fd93685e09db4e9ddf2
+[2025.02.12-20.40.07:532][967]LogViewport: Scene viewport resized to 135x300, mode Windowed.
+[2025.02.12-20.40.11:595][426]LogViewport: Scene viewport resized to 137x300, mode Windowed.
+[2025.02.12-20.40.11:599][426]LogViewport: Scene viewport resized to 886x605, mode Windowed.
+[2025.02.12-20.40.11:616][427]LogViewport: Scene viewport resized to 140x300, mode Windowed.
+[2025.02.12-20.40.11:622][427]LogViewport: Scene viewport resized to 879x605, mode Windowed.
+[2025.02.12-20.40.11:639][428]LogViewport: Scene viewport resized to 149x300, mode Windowed.
+[2025.02.12-20.40.11:645][428]LogViewport: Scene viewport resized to 865x605, mode Windowed.
+[2025.02.12-20.40.11:661][429]LogViewport: Scene viewport resized to 161x300, mode Windowed.
+[2025.02.12-20.40.11:667][429]LogViewport: Scene viewport resized to 846x605, mode Windowed.
+[2025.02.12-20.40.11:683][430]LogViewport: Scene viewport resized to 173x300, mode Windowed.
+[2025.02.12-20.40.11:691][430]LogViewport: Scene viewport resized to 826x605, mode Windowed.
+[2025.02.12-20.40.11:707][431]LogViewport: Scene viewport resized to 183x300, mode Windowed.
+[2025.02.12-20.40.11:717][431]LogViewport: Scene viewport resized to 808x605, mode Windowed.
+[2025.02.12-20.40.11:733][432]LogViewport: Scene viewport resized to 193x300, mode Windowed.
+[2025.02.12-20.40.11:738][432]LogViewport: Scene viewport resized to 791x605, mode Windowed.
+[2025.02.12-20.40.11:757][433]LogViewport: Scene viewport resized to 201x300, mode Windowed.
+[2025.02.12-20.40.11:760][433]LogViewport: Scene viewport resized to 778x605, mode Windowed.
+[2025.02.12-20.40.11:777][434]LogViewport: Scene viewport resized to 211x300, mode Windowed.
+[2025.02.12-20.40.11:784][434]LogViewport: Scene viewport resized to 762x605, mode Windowed.
+[2025.02.12-20.40.11:803][435]LogViewport: Scene viewport resized to 220x300, mode Windowed.
+[2025.02.12-20.40.11:807][435]LogViewport: Scene viewport resized to 747x605, mode Windowed.
+[2025.02.12-20.40.11:823][436]LogViewport: Scene viewport resized to 229x300, mode Windowed.
+[2025.02.12-20.40.11:828][436]LogViewport: Scene viewport resized to 733x605, mode Windowed.
+[2025.02.12-20.40.11:843][437]LogViewport: Scene viewport resized to 234x300, mode Windowed.
+[2025.02.12-20.40.11:848][437]LogViewport: Scene viewport resized to 724x605, mode Windowed.
+[2025.02.12-20.40.11:864][438]LogViewport: Scene viewport resized to 239x300, mode Windowed.
+[2025.02.12-20.40.11:870][438]LogViewport: Scene viewport resized to 716x605, mode Windowed.
+[2025.02.12-20.40.11:888][439]LogViewport: Scene viewport resized to 244x300, mode Windowed.
+[2025.02.12-20.40.11:893][439]LogViewport: Scene viewport resized to 706x605, mode Windowed.
+[2025.02.12-20.40.11:910][440]LogViewport: Scene viewport resized to 248x300, mode Windowed.
+[2025.02.12-20.40.11:915][440]LogViewport: Scene viewport resized to 701x605, mode Windowed.
+[2025.02.12-20.40.11:933][441]LogViewport: Scene viewport resized to 250x300, mode Windowed.
+[2025.02.12-20.40.11:938][441]LogViewport: Scene viewport resized to 698x605, mode Windowed.
+[2025.02.12-20.40.11:954][442]LogViewport: Scene viewport resized to 251x300, mode Windowed.
+[2025.02.12-20.40.11:960][442]LogViewport: Scene viewport resized to 697x605, mode Windowed.
+[2025.02.12-20.40.11:976][443]LogViewport: Scene viewport resized to 252x300, mode Windowed.
+[2025.02.12-20.40.11:980][443]LogViewport: Scene viewport resized to 693x605, mode Windowed.
+[2025.02.12-20.40.11:997][444]LogViewport: Scene viewport resized to 254x300, mode Windowed.
+[2025.02.12-20.40.12:002][444]LogViewport: Scene viewport resized to 690x605, mode Windowed.
+[2025.02.12-20.40.12:018][445]LogViewport: Scene viewport resized to 256x300, mode Windowed.
+[2025.02.12-20.40.12:022][445]LogViewport: Scene viewport resized to 688x605, mode Windowed.
+[2025.02.12-20.40.12:039][446]LogViewport: Scene viewport resized to 258x300, mode Windowed.
+[2025.02.12-20.40.12:044][446]LogViewport: Scene viewport resized to 684x605, mode Windowed.
+[2025.02.12-20.40.12:061][447]LogViewport: Scene viewport resized to 261x300, mode Windowed.
+[2025.02.12-20.40.12:067][447]LogViewport: Scene viewport resized to 679x605, mode Windowed.
+[2025.02.12-20.40.12:084][448]LogViewport: Scene viewport resized to 262x300, mode Windowed.
+[2025.02.12-20.40.12:090][448]LogViewport: Scene viewport resized to 677x605, mode Windowed.
+[2025.02.12-20.40.12:109][449]LogViewport: Scene viewport resized to 266x300, mode Windowed.
+[2025.02.12-20.40.12:113][449]LogViewport: Scene viewport resized to 672x605, mode Windowed.
+[2025.02.12-20.40.12:129][450]LogViewport: Scene viewport resized to 270x300, mode Windowed.
+[2025.02.12-20.40.12:135][450]LogViewport: Scene viewport resized to 663x605, mode Windowed.
+[2025.02.12-20.40.12:151][451]LogViewport: Scene viewport resized to 274x300, mode Windowed.
+[2025.02.12-20.40.12:156][451]LogViewport: Scene viewport resized to 656x605, mode Windowed.
+[2025.02.12-20.40.12:173][452]LogViewport: Scene viewport resized to 279x300, mode Windowed.
+[2025.02.12-20.40.12:178][452]LogViewport: Scene viewport resized to 649x605, mode Windowed.
+[2025.02.12-20.40.12:193][453]LogViewport: Scene viewport resized to 282x300, mode Windowed.
+[2025.02.12-20.40.12:198][453]LogViewport: Scene viewport resized to 643x605, mode Windowed.
+[2025.02.12-20.40.12:214][454]LogViewport: Scene viewport resized to 283x300, mode Windowed.
+[2025.02.12-20.40.12:219][454]LogViewport: Scene viewport resized to 641x605, mode Windowed.
+[2025.02.12-20.40.12:236][455]LogViewport: Scene viewport resized to 285x300, mode Windowed.
+[2025.02.12-20.40.12:241][455]LogViewport: Scene viewport resized to 639x605, mode Windowed.
+[2025.02.12-20.40.12:291][460]LogViewport: Scene viewport resized to 286x300, mode Windowed.
+[2025.02.12-20.40.12:296][460]LogViewport: Scene viewport resized to 638x605, mode Windowed.
+[2025.02.12-20.40.15:856][682]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.12-20.40.20:368][152]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ExtraAnimations/Lean/Lean_Left.Lean_Left
+[2025.02.12-20.40.20:391][152]LogAnimationCompression: Display: Storing compressed animation data for /Game/ExtraAnimations/Lean/Lean_Left.Lean_Left, at AnimationSequence/2e0bfa3509b940c3c8fe2c7ce833daef32345db9
+[2025.02.12-20.40.31:462][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.40.31:520][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraAnimations/Lean/Lean_Left" FILE="D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/Lean_Left.uasset" SILENT=true
+[2025.02.12-20.40.31:531][333]LogSavePackage: Moving output files for package: /Game/ExtraAnimations/Lean/Lean_Left
+[2025.02.12-20.40.31:531][333]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/Lean_Left3109B94643C89443C53CACB39242CC84.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/Lean_Left.uasset'
+[2025.02.12-20.40.31:538][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2.07 sec)
+[2025.02.12-20.40.31:539][333]AssetCheck: New page: Asset Save: Lean_Left
+[2025.02.12-20.40.31:539][333]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ExtraAnimations/Lean/Lean_Left.Lean_Left
+[2025.02.12-20.40.55:548][301]LogViewport: Scene viewport resized to 658x605, mode Windowed.
+[2025.02.12-20.40.55:606][302]LogViewport: Scene viewport resized to 708x605, mode Windowed.
+[2025.02.12-20.40.55:642][303]LogViewport: Scene viewport resized to 740x605, mode Windowed.
+[2025.02.12-20.40.55:682][304]LogViewport: Scene viewport resized to 773x605, mode Windowed.
+[2025.02.12-20.40.55:742][305]LogViewport: Scene viewport resized to 818x605, mode Windowed.
+[2025.02.12-20.40.55:786][306]LogViewport: Scene viewport resized to 845x605, mode Windowed.
+[2025.02.12-20.40.55:819][307]LogViewport: Scene viewport resized to 859x605, mode Windowed.
+[2025.02.12-20.40.55:862][308]LogViewport: Scene viewport resized to 883x605, mode Windowed.
+[2025.02.12-20.40.55:902][309]LogViewport: Scene viewport resized to 897x605, mode Windowed.
+[2025.02.12-20.40.55:940][310]LogViewport: Scene viewport resized to 901x605, mode Windowed.
+[2025.02.12-20.40.55:960][311]LogViewport: Scene viewport resized to 902x605, mode Windowed.
+[2025.02.12-20.40.55:981][312]LogViewport: Scene viewport resized to 904x605, mode Windowed.
+[2025.02.12-20.40.56:010][314]LogViewport: Scene viewport resized to 905x605, mode Windowed.
+[2025.02.12-20.40.56:029][315]LogViewport: Scene viewport resized to 907x605, mode Windowed.
+[2025.02.12-20.40.56:050][316]LogViewport: Scene viewport resized to 909x605, mode Windowed.
+[2025.02.12-20.40.56:069][317]LogViewport: Scene viewport resized to 912x605, mode Windowed.
+[2025.02.12-20.40.56:089][318]LogViewport: Scene viewport resized to 918x605, mode Windowed.
+[2025.02.12-20.40.56:107][319]LogViewport: Scene viewport resized to 924x605, mode Windowed.
+[2025.02.12-20.40.56:127][320]LogViewport: Scene viewport resized to 930x605, mode Windowed.
+[2025.02.12-20.40.56:147][321]LogViewport: Scene viewport resized to 935x605, mode Windowed.
+[2025.02.12-20.40.56:169][322]LogViewport: Scene viewport resized to 941x605, mode Windowed.
+[2025.02.12-20.40.56:188][323]LogViewport: Scene viewport resized to 948x605, mode Windowed.
+[2025.02.12-20.40.56:206][324]LogViewport: Scene viewport resized to 953x605, mode Windowed.
+[2025.02.12-20.40.56:226][325]LogViewport: Scene viewport resized to 956x605, mode Windowed.
+[2025.02.12-20.40.56:244][326]LogViewport: Scene viewport resized to 958x605, mode Windowed.
+[2025.02.12-20.40.56:262][327]LogViewport: Scene viewport resized to 961x605, mode Windowed.
+[2025.02.12-20.40.56:279][328]LogViewport: Scene viewport resized to 965x605, mode Windowed.
+[2025.02.12-20.40.56:311][329]LogViewport: Scene viewport resized to 978x605, mode Windowed.
+[2025.02.12-20.40.56:330][330]LogViewport: Scene viewport resized to 986x605, mode Windowed.
+[2025.02.12-20.40.56:347][331]LogViewport: Scene viewport resized to 991x605, mode Windowed.
+[2025.02.12-20.40.56:365][332]LogViewport: Scene viewport resized to 994x605, mode Windowed.
+[2025.02.12-20.40.56:383][333]LogViewport: Scene viewport resized to 999x605, mode Windowed.
+[2025.02.12-20.40.56:401][334]LogViewport: Scene viewport resized to 1006x605, mode Windowed.
+[2025.02.12-20.40.56:422][335]LogViewport: Scene viewport resized to 1011x605, mode Windowed.
+[2025.02.12-20.40.56:446][336]LogViewport: Scene viewport resized to 1017x605, mode Windowed.
+[2025.02.12-20.40.56:468][337]LogViewport: Scene viewport resized to 1018x605, mode Windowed.
+[2025.02.12-20.40.56:489][338]LogViewport: Scene viewport resized to 1021x605, mode Windowed.
+[2025.02.12-20.40.56:505][339]LogViewport: Scene viewport resized to 1026x605, mode Windowed.
+[2025.02.12-20.40.56:522][340]LogViewport: Scene viewport resized to 1030x605, mode Windowed.
+[2025.02.12-20.40.56:541][341]LogViewport: Scene viewport resized to 1033x605, mode Windowed.
+[2025.02.12-20.40.56:558][342]LogViewport: Scene viewport resized to 1036x605, mode Windowed.
+[2025.02.12-20.40.56:576][343]LogViewport: Scene viewport resized to 1039x605, mode Windowed.
+[2025.02.12-20.40.56:595][344]LogViewport: Scene viewport resized to 1044x605, mode Windowed.
+[2025.02.12-20.40.56:614][345]LogViewport: Scene viewport resized to 1048x605, mode Windowed.
+[2025.02.12-20.40.56:633][346]LogViewport: Scene viewport resized to 1050x605, mode Windowed.
+[2025.02.12-20.40.59:161][634]LogViewport: Scene viewport resized to 1049x605, mode Windowed.
+[2025.02.12-20.40.59:179][635]LogViewport: Scene viewport resized to 1044x605, mode Windowed.
+[2025.02.12-20.40.59:195][636]LogViewport: Scene viewport resized to 1035x605, mode Windowed.
+[2025.02.12-20.40.59:212][637]LogViewport: Scene viewport resized to 1021x605, mode Windowed.
+[2025.02.12-20.40.59:230][638]LogViewport: Scene viewport resized to 1006x605, mode Windowed.
+[2025.02.12-20.40.59:248][639]LogViewport: Scene viewport resized to 995x605, mode Windowed.
+[2025.02.12-20.40.59:265][640]LogViewport: Scene viewport resized to 993x605, mode Windowed.
+[2025.02.12-20.40.59:317][645]LogViewport: Scene viewport resized to 990x605, mode Windowed.
+[2025.02.12-20.40.59:332][646]LogViewport: Scene viewport resized to 989x605, mode Windowed.
+[2025.02.12-20.40.59:349][647]LogViewport: Scene viewport resized to 986x605, mode Windowed.
+[2025.02.12-20.40.59:366][648]LogViewport: Scene viewport resized to 984x605, mode Windowed.
+[2025.02.12-20.40.59:385][649]LogViewport: Scene viewport resized to 981x605, mode Windowed.
+[2025.02.12-20.40.59:401][650]LogViewport: Scene viewport resized to 978x605, mode Windowed.
+[2025.02.12-20.40.59:418][651]LogViewport: Scene viewport resized to 974x605, mode Windowed.
+[2025.02.12-20.40.59:436][652]LogViewport: Scene viewport resized to 970x605, mode Windowed.
+[2025.02.12-20.40.59:454][653]LogViewport: Scene viewport resized to 965x605, mode Windowed.
+[2025.02.12-20.40.59:472][654]LogViewport: Scene viewport resized to 959x605, mode Windowed.
+[2025.02.12-20.40.59:489][655]LogViewport: Scene viewport resized to 951x605, mode Windowed.
+[2025.02.12-20.40.59:508][656]LogViewport: Scene viewport resized to 943x605, mode Windowed.
+[2025.02.12-20.40.59:525][657]LogViewport: Scene viewport resized to 935x605, mode Windowed.
+[2025.02.12-20.40.59:542][658]LogViewport: Scene viewport resized to 927x605, mode Windowed.
+[2025.02.12-20.40.59:562][659]LogViewport: Scene viewport resized to 920x605, mode Windowed.
+[2025.02.12-20.40.59:579][660]LogViewport: Scene viewport resized to 913x605, mode Windowed.
+[2025.02.12-20.40.59:597][661]LogViewport: Scene viewport resized to 908x605, mode Windowed.
+[2025.02.12-20.40.59:615][662]LogViewport: Scene viewport resized to 903x605, mode Windowed.
+[2025.02.12-20.40.59:632][663]LogViewport: Scene viewport resized to 899x605, mode Windowed.
+[2025.02.12-20.40.59:651][664]LogViewport: Scene viewport resized to 894x605, mode Windowed.
+[2025.02.12-20.40.59:669][665]LogViewport: Scene viewport resized to 889x605, mode Windowed.
+[2025.02.12-20.40.59:687][666]LogViewport: Scene viewport resized to 886x605, mode Windowed.
+[2025.02.12-20.40.59:704][667]LogViewport: Scene viewport resized to 884x605, mode Windowed.
+[2025.02.12-20.40.59:722][668]LogViewport: Scene viewport resized to 881x605, mode Windowed.
+[2025.02.12-20.40.59:741][669]LogViewport: Scene viewport resized to 879x605, mode Windowed.
+[2025.02.12-20.40.59:758][670]LogViewport: Scene viewport resized to 876x605, mode Windowed.
+[2025.02.12-20.40.59:775][671]LogViewport: Scene viewport resized to 873x605, mode Windowed.
+[2025.02.12-20.40.59:794][672]LogViewport: Scene viewport resized to 870x605, mode Windowed.
+[2025.02.12-20.40.59:811][673]LogViewport: Scene viewport resized to 868x605, mode Windowed.
+[2025.02.12-20.40.59:829][674]LogViewport: Scene viewport resized to 867x605, mode Windowed.
+[2025.02.12-20.40.59:846][675]LogViewport: Scene viewport resized to 866x605, mode Windowed.
+[2025.02.12-20.40.59:863][676]LogViewport: Scene viewport resized to 864x605, mode Windowed.
+[2025.02.12-20.40.59:881][677]LogViewport: Scene viewport resized to 861x605, mode Windowed.
+[2025.02.12-20.40.59:899][678]LogViewport: Scene viewport resized to 857x605, mode Windowed.
+[2025.02.12-20.40.59:918][679]LogViewport: Scene viewport resized to 853x605, mode Windowed.
+[2025.02.12-20.40.59:936][680]LogViewport: Scene viewport resized to 848x605, mode Windowed.
+[2025.02.12-20.40.59:954][681]LogViewport: Scene viewport resized to 845x605, mode Windowed.
+[2025.02.12-20.40.59:972][682]LogViewport: Scene viewport resized to 841x605, mode Windowed.
+[2025.02.12-20.40.59:990][683]LogViewport: Scene viewport resized to 840x605, mode Windowed.
+[2025.02.12-20.41.00:008][684]LogViewport: Scene viewport resized to 838x605, mode Windowed.
+[2025.02.12-20.41.00:028][685]LogViewport: Scene viewport resized to 835x605, mode Windowed.
+[2025.02.12-20.41.00:046][686]LogViewport: Scene viewport resized to 832x605, mode Windowed.
+[2025.02.12-20.41.00:075][688]LogViewport: Scene viewport resized to 830x605, mode Windowed.
+[2025.02.12-20.41.00:101][690]LogViewport: Scene viewport resized to 829x605, mode Windowed.
+[2025.02.12-20.41.00:119][691]LogViewport: Scene viewport resized to 827x605, mode Windowed.
+[2025.02.12-20.41.00:134][692]LogViewport: Scene viewport resized to 826x605, mode Windowed.
+[2025.02.12-20.41.00:152][693]LogViewport: Scene viewport resized to 825x605, mode Windowed.
+[2025.02.12-20.41.00:188][696]LogViewport: Scene viewport resized to 824x605, mode Windowed.
+[2025.02.12-20.41.00:207][697]LogViewport: Scene viewport resized to 823x605, mode Windowed.
+[2025.02.12-20.41.00:223][698]LogViewport: Scene viewport resized to 821x605, mode Windowed.
+[2025.02.12-20.41.00:240][699]LogViewport: Scene viewport resized to 818x605, mode Windowed.
+[2025.02.12-20.41.00:256][700]LogViewport: Scene viewport resized to 816x605, mode Windowed.
+[2025.02.12-20.41.00:279][701]LogViewport: Scene viewport resized to 814x605, mode Windowed.
+[2025.02.12-20.41.00:296][702]LogViewport: Scene viewport resized to 812x605, mode Windowed.
+[2025.02.12-20.41.00:315][703]LogViewport: Scene viewport resized to 808x605, mode Windowed.
+[2025.02.12-20.41.00:334][704]LogViewport: Scene viewport resized to 805x605, mode Windowed.
+[2025.02.12-20.41.00:352][705]LogViewport: Scene viewport resized to 802x605, mode Windowed.
+[2025.02.12-20.41.00:380][707]LogViewport: Scene viewport resized to 801x605, mode Windowed.
+[2025.02.12-20.41.00:415][710]LogViewport: Scene viewport resized to 800x605, mode Windowed.
+[2025.02.12-20.41.00:517][720]LogViewport: Scene viewport resized to 798x605, mode Windowed.
+[2025.02.12-20.41.25:108][314]Cmd: TRANSACTION UNDO
+[2025.02.12-20.41.25:108][314]LogEditorTransaction: Undo Rotate Bone
+[2025.02.12-20.41.25:480][314]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.12-20.41.25:482][314]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.12-20.41.55:686][397]LogViewport: Scene viewport resized to 801x605, mode Windowed.
+[2025.02.12-20.41.55:701][398]LogViewport: Scene viewport resized to 807x605, mode Windowed.
+[2025.02.12-20.41.55:717][399]LogViewport: Scene viewport resized to 820x605, mode Windowed.
+[2025.02.12-20.41.55:732][400]LogViewport: Scene viewport resized to 838x605, mode Windowed.
+[2025.02.12-20.41.55:748][401]LogViewport: Scene viewport resized to 862x605, mode Windowed.
+[2025.02.12-20.41.55:764][402]LogViewport: Scene viewport resized to 890x605, mode Windowed.
+[2025.02.12-20.41.55:779][403]LogViewport: Scene viewport resized to 916x605, mode Windowed.
+[2025.02.12-20.41.55:797][404]LogViewport: Scene viewport resized to 935x605, mode Windowed.
+[2025.02.12-20.41.55:814][405]LogViewport: Scene viewport resized to 950x605, mode Windowed.
+[2025.02.12-20.41.55:830][406]LogViewport: Scene viewport resized to 960x605, mode Windowed.
+[2025.02.12-20.41.55:846][407]LogViewport: Scene viewport resized to 973x605, mode Windowed.
+[2025.02.12-20.41.55:862][408]LogViewport: Scene viewport resized to 983x605, mode Windowed.
+[2025.02.12-20.41.55:880][409]LogViewport: Scene viewport resized to 994x605, mode Windowed.
+[2025.02.12-20.41.55:896][410]LogViewport: Scene viewport resized to 1002x605, mode Windowed.
+[2025.02.12-20.41.55:914][411]LogViewport: Scene viewport resized to 1005x605, mode Windowed.
+[2025.02.12-20.41.55:931][412]LogViewport: Scene viewport resized to 1010x605, mode Windowed.
+[2025.02.12-20.41.55:948][413]LogViewport: Scene viewport resized to 1015x605, mode Windowed.
+[2025.02.12-20.41.55:967][414]LogViewport: Scene viewport resized to 1021x605, mode Windowed.
+[2025.02.12-20.41.55:984][415]LogViewport: Scene viewport resized to 1031x605, mode Windowed.
+[2025.02.12-20.41.55:998][416]LogViewport: Scene viewport resized to 1040x605, mode Windowed.
+[2025.02.12-20.41.56:015][417]LogViewport: Scene viewport resized to 1048x605, mode Windowed.
+[2025.02.12-20.41.56:032][418]LogViewport: Scene viewport resized to 1056x605, mode Windowed.
+[2025.02.12-20.41.56:048][419]LogViewport: Scene viewport resized to 1066x605, mode Windowed.
+[2025.02.12-20.41.56:065][420]LogViewport: Scene viewport resized to 1077x605, mode Windowed.
+[2025.02.12-20.41.56:083][421]LogViewport: Scene viewport resized to 1089x605, mode Windowed.
+[2025.02.12-20.41.56:099][422]LogViewport: Scene viewport resized to 1099x605, mode Windowed.
+[2025.02.12-20.41.56:119][423]LogViewport: Scene viewport resized to 1100x605, mode Windowed.
+[2025.02.12-20.41.56:352][450]LogViewport: Scene viewport resized to 1099x605, mode Windowed.
+[2025.02.12-20.41.56:366][451]LogViewport: Scene viewport resized to 1089x605, mode Windowed.
+[2025.02.12-20.41.56:381][452]LogViewport: Scene viewport resized to 1077x605, mode Windowed.
+[2025.02.12-20.41.56:397][453]LogViewport: Scene viewport resized to 1064x605, mode Windowed.
+[2025.02.12-20.41.56:414][454]LogViewport: Scene viewport resized to 1050x605, mode Windowed.
+[2025.02.12-20.41.56:431][455]LogViewport: Scene viewport resized to 1037x605, mode Windowed.
+[2025.02.12-20.41.56:447][456]LogViewport: Scene viewport resized to 1028x605, mode Windowed.
+[2025.02.12-20.41.56:465][457]LogViewport: Scene viewport resized to 1022x605, mode Windowed.
+[2025.02.12-20.41.56:481][458]LogViewport: Scene viewport resized to 1019x605, mode Windowed.
+[2025.02.12-20.41.56:499][459]LogViewport: Scene viewport resized to 1014x605, mode Windowed.
+[2025.02.12-20.41.56:516][460]LogViewport: Scene viewport resized to 1008x605, mode Windowed.
+[2025.02.12-20.41.56:533][461]LogViewport: Scene viewport resized to 1000x605, mode Windowed.
+[2025.02.12-20.41.56:549][462]LogViewport: Scene viewport resized to 993x605, mode Windowed.
+[2025.02.12-20.41.56:565][463]LogViewport: Scene viewport resized to 986x605, mode Windowed.
+[2025.02.12-20.41.56:582][464]LogViewport: Scene viewport resized to 980x605, mode Windowed.
+[2025.02.12-20.41.56:598][465]LogViewport: Scene viewport resized to 973x605, mode Windowed.
+[2025.02.12-20.41.56:617][466]LogViewport: Scene viewport resized to 967x605, mode Windowed.
+[2025.02.12-20.41.56:631][467]LogViewport: Scene viewport resized to 963x605, mode Windowed.
+[2025.02.12-20.41.56:648][468]LogViewport: Scene viewport resized to 958x605, mode Windowed.
+[2025.02.12-20.41.56:664][469]LogViewport: Scene viewport resized to 954x605, mode Windowed.
+[2025.02.12-20.41.56:681][470]LogViewport: Scene viewport resized to 950x605, mode Windowed.
+[2025.02.12-20.41.56:699][471]LogViewport: Scene viewport resized to 945x605, mode Windowed.
+[2025.02.12-20.41.56:716][472]LogViewport: Scene viewport resized to 941x605, mode Windowed.
+[2025.02.12-20.41.56:732][473]LogViewport: Scene viewport resized to 935x605, mode Windowed.
+[2025.02.12-20.41.56:750][474]LogViewport: Scene viewport resized to 930x605, mode Windowed.
+[2025.02.12-20.41.56:766][475]LogViewport: Scene viewport resized to 924x605, mode Windowed.
+[2025.02.12-20.41.56:785][476]LogViewport: Scene viewport resized to 920x605, mode Windowed.
+[2025.02.12-20.41.56:801][477]LogViewport: Scene viewport resized to 916x605, mode Windowed.
+[2025.02.12-20.41.56:818][478]LogViewport: Scene viewport resized to 911x605, mode Windowed.
+[2025.02.12-20.41.56:835][479]LogViewport: Scene viewport resized to 906x605, mode Windowed.
+[2025.02.12-20.41.56:853][480]LogViewport: Scene viewport resized to 902x605, mode Windowed.
+[2025.02.12-20.41.56:868][481]LogViewport: Scene viewport resized to 897x605, mode Windowed.
+[2025.02.12-20.41.56:884][482]LogViewport: Scene viewport resized to 895x605, mode Windowed.
+[2025.02.12-20.41.56:901][483]LogViewport: Scene viewport resized to 892x605, mode Windowed.
+[2025.02.12-20.41.56:918][484]LogViewport: Scene viewport resized to 889x605, mode Windowed.
+[2025.02.12-20.41.56:934][485]LogViewport: Scene viewport resized to 886x605, mode Windowed.
+[2025.02.12-20.41.56:953][486]LogViewport: Scene viewport resized to 883x605, mode Windowed.
+[2025.02.12-20.41.56:972][487]LogViewport: Scene viewport resized to 881x605, mode Windowed.
+[2025.02.12-20.41.56:990][488]LogViewport: Scene viewport resized to 879x605, mode Windowed.
+[2025.02.12-20.41.57:010][489]LogViewport: Scene viewport resized to 876x605, mode Windowed.
+[2025.02.12-20.41.57:029][490]LogViewport: Scene viewport resized to 874x605, mode Windowed.
+[2025.02.12-20.41.57:045][491]LogViewport: Scene viewport resized to 873x605, mode Windowed.
+[2025.02.12-20.41.57:062][492]LogViewport: Scene viewport resized to 871x605, mode Windowed.
+[2025.02.12-20.41.57:087][494]LogViewport: Scene viewport resized to 870x605, mode Windowed.
+[2025.02.12-20.41.57:135][499]LogViewport: Scene viewport resized to 869x605, mode Windowed.
+[2025.02.12-20.41.58:145][609]LogViewport: Scene viewport resized to 820x374, mode Windowed.
+[2025.02.12-20.41.59:667][774]LogViewport: Scene viewport resized to 1757x609, mode Windowed.
+[2025.02.12-20.42.01:543][973]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ExtraAnimations/Lean/Lean_Left.Lean_Left
+[2025.02.12-20.42.01:870][  5]LogAnimationCompression: Display: Storing compressed animation data for /Game/ExtraAnimations/Lean/Lean_Left.Lean_Left, at AnimationSequence/8d56b30e619c4240a7a787d5c2145d90565eea25
+[2025.02.12-20.42.03:562][182]LogViewport: Scene viewport resized to 820x374, mode Windowed.
+[2025.02.12-20.42.05:485][302]LogViewport: Scene viewport resized to 869x605, mode Windowed.
+[2025.02.12-20.42.13:595][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.42.13:688][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraAnimations/Lean/Lean_Left" FILE="D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/Lean_Left.uasset" SILENT=true
+[2025.02.12-20.42.13:700][329]LogSavePackage: Moving output files for package: /Game/ExtraAnimations/Lean/Lean_Left
+[2025.02.12-20.42.13:700][329]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/Lean_Left7D4BE67C4EA79F4D011B84A05615CE84.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/Lean_Left.uasset'
+[2025.02.12-20.42.13:708][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 2.18 sec)
+[2025.02.12-20.42.13:709][329]AssetCheck: New page: Asset Save: Lean_Left
+[2025.02.12-20.42.13:709][329]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ExtraAnimations/Lean/Lean_Left.Lean_Left
+[2025.02.12-20.42.32:336][423]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ExtraAnimations/Lean/Lean_Right.Lean_Right
+[2025.02.12-20.42.48:604][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-20.42.48:604][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-20.42.48:661][561]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-20.42.48:661][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.42.52:485][951]LogViewport: Scene viewport resized to 286x300, mode Windowed.
+[2025.02.12-20.43.17:230][530]LogViewport: Scene viewport resized to 820x374, mode Windowed.
+[2025.02.12-20.43.18:701][692]LogViewport: Scene viewport resized to 1757x609, mode Windowed.
+[2025.02.12-20.43.19:956][818]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ExtraAnimations/Lean/Lean_Right.Lean_Right
+[2025.02.12-20.43.20:311][851]LogAnimationCompression: Display: Storing compressed animation data for /Game/ExtraAnimations/Lean/Lean_Right.Lean_Right, at AnimationSequence/4fa35aeef606d174aec404de0bd58560fe3568e7
+[2025.02.12-20.43.22:203][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.43.22:262][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraAnimations/Lean/Lean_Right" FILE="D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/Lean_Right.uasset" SILENT=true
+[2025.02.12-20.43.22:277][ 49]LogSavePackage: Moving output files for package: /Game/ExtraAnimations/Lean/Lean_Right
+[2025.02.12-20.43.22:277][ 49]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/Lean_Right29D8E9A84D6CC3BB1844719F98395FF6.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/Lean_Right.uasset'
+[2025.02.12-20.43.22:283][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.26 sec)
+[2025.02.12-20.43.22:284][ 49]AssetCheck: New page: Asset Save: Lean_Right
+[2025.02.12-20.43.22:284][ 49]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ExtraAnimations/Lean/Lean_Right.Lean_Right
+[2025.02.12-20.43.23:802][206]LogViewport: Scene viewport resized to 820x374, mode Windowed.
+[2025.02.12-20.43.24:577][206]LogViewport: Scene viewport resized to 869x605, mode Windowed.
+[2025.02.12-20.43.41:192][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-20.43.43:098][283]LogSlate: Window 'Pick Skeleton' being destroyed
+[2025.02.12-20.43.43:108][283]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2025.02.12-20.43.43:115][283]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2025.02.12-20.43.43:127][284]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace1D).
+[2025.02.12-20.43.48:308][342]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> NewBlendSpace1D
+[2025.02.12-20.43.48:343][342]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2025.02.12-20.43.51:921][623]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> BS_Lean
+[2025.02.12-20.43.51:948][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.43.52:003][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraAnimations/Lean/BS_Lean" FILE="D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/BS_Lean.uasset" SILENT=true
+[2025.02.12-20.43.52:004][623]LogSavePackage: Moving output files for package: /Game/ExtraAnimations/Lean/BS_Lean
+[2025.02.12-20.43.52:004][623]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/BS_LeanDD2E52014984C0B4E259979BE98BDB8A.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/BS_Lean.uasset'
+[2025.02.12-20.43.52:031][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.35 sec)
+[2025.02.12-20.43.52:066][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.02.12-20.43.52:086][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.02.12-20.43.52:102][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.02.12-20.43.52:104][623]AssetCheck: New page: Asset Save: BS_Lean
+[2025.02.12-20.43.52:104][623]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/ExtraAnimations/Lean/BS_Lean.BS_Lean
+[2025.02.12-20.43.53:982][771]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/ExtraAnimations/Lean/BS_Lean.BS_Lean
+[2025.02.12-20.44.00:959][273]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-20.44.00:959][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.44.25:918][601]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2025.02.12-20.44.31:235][827]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20500.087891
+[2025.02.12-20.44.32:231][830]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-20.44.32:231][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20500.753906, Update Interval: 308.877228
+[2025.02.12-20.44.33:236][832]LogViewport: Scene viewport resized to 1040x605, mode Windowed.
+[2025.02.12-20.44.33:344][833]LogViewport: Scene viewport resized to 1125x605, mode Windowed.
+[2025.02.12-20.44.33:377][834]LogViewport: Scene viewport resized to 1134x605, mode Windowed.
+[2025.02.12-20.44.33:438][835]LogViewport: Scene viewport resized to 1135x605, mode Windowed.
+[2025.02.12-20.44.33:755][854]LogViewport: Scene viewport resized to 1134x605, mode Windowed.
+[2025.02.12-20.44.33:770][855]LogViewport: Scene viewport resized to 1133x605, mode Windowed.
+[2025.02.12-20.44.33:787][856]LogViewport: Scene viewport resized to 1130x605, mode Windowed.
+[2025.02.12-20.44.33:801][857]LogViewport: Scene viewport resized to 1129x605, mode Windowed.
+[2025.02.12-20.44.33:817][858]LogViewport: Scene viewport resized to 1127x605, mode Windowed.
+[2025.02.12-20.44.33:831][859]LogViewport: Scene viewport resized to 1125x605, mode Windowed.
+[2025.02.12-20.44.33:848][860]LogViewport: Scene viewport resized to 1124x605, mode Windowed.
+[2025.02.12-20.44.33:865][861]LogViewport: Scene viewport resized to 1120x605, mode Windowed.
+[2025.02.12-20.44.33:882][862]LogViewport: Scene viewport resized to 1119x605, mode Windowed.
+[2025.02.12-20.44.33:897][863]LogViewport: Scene viewport resized to 1118x605, mode Windowed.
+[2025.02.12-20.44.34:062][882]LogViewport: Scene viewport resized to 1115x605, mode Windowed.
+[2025.02.12-20.44.34:078][883]LogViewport: Scene viewport resized to 1113x605, mode Windowed.
+[2025.02.12-20.44.34:095][884]LogViewport: Scene viewport resized to 1109x605, mode Windowed.
+[2025.02.12-20.44.34:113][885]LogViewport: Scene viewport resized to 1105x605, mode Windowed.
+[2025.02.12-20.44.34:130][886]LogViewport: Scene viewport resized to 1103x605, mode Windowed.
+[2025.02.12-20.44.34:148][887]LogViewport: Scene viewport resized to 1099x605, mode Windowed.
+[2025.02.12-20.44.34:166][888]LogViewport: Scene viewport resized to 1097x605, mode Windowed.
+[2025.02.12-20.44.34:186][889]LogViewport: Scene viewport resized to 1094x605, mode Windowed.
+[2025.02.12-20.44.34:203][890]LogViewport: Scene viewport resized to 1093x605, mode Windowed.
+[2025.02.12-20.44.34:224][891]LogViewport: Scene viewport resized to 1089x605, mode Windowed.
+[2025.02.12-20.44.34:240][892]LogViewport: Scene viewport resized to 1086x605, mode Windowed.
+[2025.02.12-20.44.34:255][893]LogViewport: Scene viewport resized to 1084x605, mode Windowed.
+[2025.02.12-20.44.34:271][894]LogViewport: Scene viewport resized to 1083x605, mode Windowed.
+[2025.02.12-20.44.34:328][900]LogViewport: Scene viewport resized to 1081x605, mode Windowed.
+[2025.02.12-20.44.35:246][992]LogViewport: Scene viewport resized to 1077x605, mode Windowed.
+[2025.02.12-20.44.35:260][993]LogViewport: Scene viewport resized to 1070x605, mode Windowed.
+[2025.02.12-20.44.35:278][994]LogViewport: Scene viewport resized to 1054x605, mode Windowed.
+[2025.02.12-20.44.35:293][995]LogViewport: Scene viewport resized to 1042x605, mode Windowed.
+[2025.02.12-20.44.35:309][996]LogViewport: Scene viewport resized to 1032x605, mode Windowed.
+[2025.02.12-20.44.35:329][997]LogViewport: Scene viewport resized to 1024x605, mode Windowed.
+[2025.02.12-20.44.35:344][998]LogViewport: Scene viewport resized to 1019x605, mode Windowed.
+[2025.02.12-20.44.35:361][999]LogViewport: Scene viewport resized to 1011x605, mode Windowed.
+[2025.02.12-20.44.35:377][  0]LogViewport: Scene viewport resized to 1003x605, mode Windowed.
+[2025.02.12-20.44.35:394][  1]LogViewport: Scene viewport resized to 997x605, mode Windowed.
+[2025.02.12-20.44.35:410][  2]LogViewport: Scene viewport resized to 990x605, mode Windowed.
+[2025.02.12-20.44.35:426][  3]LogViewport: Scene viewport resized to 983x605, mode Windowed.
+[2025.02.12-20.44.35:442][  4]LogViewport: Scene viewport resized to 977x605, mode Windowed.
+[2025.02.12-20.44.35:458][  5]LogViewport: Scene viewport resized to 972x605, mode Windowed.
+[2025.02.12-20.44.35:474][  6]LogViewport: Scene viewport resized to 969x605, mode Windowed.
+[2025.02.12-20.44.35:491][  7]LogViewport: Scene viewport resized to 965x605, mode Windowed.
+[2025.02.12-20.44.35:506][  8]LogViewport: Scene viewport resized to 960x605, mode Windowed.
+[2025.02.12-20.44.35:522][  9]LogViewport: Scene viewport resized to 955x605, mode Windowed.
+[2025.02.12-20.44.35:538][ 10]LogViewport: Scene viewport resized to 950x605, mode Windowed.
+[2025.02.12-20.44.35:554][ 11]LogViewport: Scene viewport resized to 943x605, mode Windowed.
+[2025.02.12-20.44.35:570][ 12]LogViewport: Scene viewport resized to 937x605, mode Windowed.
+[2025.02.12-20.44.35:587][ 13]LogViewport: Scene viewport resized to 932x605, mode Windowed.
+[2025.02.12-20.44.35:603][ 14]LogViewport: Scene viewport resized to 928x605, mode Windowed.
+[2025.02.12-20.44.35:618][ 15]LogViewport: Scene viewport resized to 923x605, mode Windowed.
+[2025.02.12-20.44.35:634][ 16]LogViewport: Scene viewport resized to 918x605, mode Windowed.
+[2025.02.12-20.44.35:650][ 17]LogViewport: Scene viewport resized to 912x605, mode Windowed.
+[2025.02.12-20.44.35:667][ 18]LogViewport: Scene viewport resized to 907x605, mode Windowed.
+[2025.02.12-20.44.35:684][ 19]LogViewport: Scene viewport resized to 902x605, mode Windowed.
+[2025.02.12-20.44.35:701][ 20]LogViewport: Scene viewport resized to 897x605, mode Windowed.
+[2025.02.12-20.44.35:718][ 21]LogViewport: Scene viewport resized to 893x605, mode Windowed.
+[2025.02.12-20.44.35:735][ 22]LogViewport: Scene viewport resized to 888x605, mode Windowed.
+[2025.02.12-20.44.35:750][ 23]LogViewport: Scene viewport resized to 882x605, mode Windowed.
+[2025.02.12-20.44.35:766][ 24]LogViewport: Scene viewport resized to 877x605, mode Windowed.
+[2025.02.12-20.44.35:782][ 25]LogViewport: Scene viewport resized to 875x605, mode Windowed.
+[2025.02.12-20.44.35:798][ 26]LogViewport: Scene viewport resized to 872x605, mode Windowed.
+[2025.02.12-20.44.35:814][ 27]LogViewport: Scene viewport resized to 871x605, mode Windowed.
+[2025.02.12-20.44.35:830][ 28]LogViewport: Scene viewport resized to 869x605, mode Windowed.
+[2025.02.12-20.44.35:845][ 29]LogViewport: Scene viewport resized to 867x605, mode Windowed.
+[2025.02.12-20.44.35:861][ 30]LogViewport: Scene viewport resized to 864x605, mode Windowed.
+[2025.02.12-20.44.35:875][ 31]LogViewport: Scene viewport resized to 862x605, mode Windowed.
+[2025.02.12-20.44.35:891][ 32]LogViewport: Scene viewport resized to 860x605, mode Windowed.
+[2025.02.12-20.44.35:906][ 33]LogViewport: Scene viewport resized to 858x605, mode Windowed.
+[2025.02.12-20.45.14:490][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.45.14:555][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtraAnimations/Lean/BS_Lean" FILE="D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/BS_Lean.uasset" SILENT=true
+[2025.02.12-20.45.14:556][506]LogSavePackage: Moving output files for package: /Game/ExtraAnimations/Lean/BS_Lean
+[2025.02.12-20.45.14:557][506]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/BS_LeanEA823B46491749D59DE35FAC091DA4B4.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/ExtraAnimations/Lean/BS_Lean.uasset'
+[2025.02.12-20.45.14:565][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.42 sec)
+[2025.02.12-20.45.14:566][506]AssetCheck: New page: Asset Save: BS_Lean
+[2025.02.12-20.45.14:566][506]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/ExtraAnimations/Lean/BS_Lean.BS_Lean
+[2025.02.12-20.45.24:740][351]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.02.12-20.47.02:621][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.02.12-20.47.02:627][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.47.02:684][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/ABP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset" SILENT=true
+[2025.02.12-20.47.02:824][269]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/ABP_MyCharacter
+[2025.02.12-20.47.02:824][269]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacterC3AAF45E4A9866147E0A2299EF6D9DA4.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset'
+[2025.02.12-20.47.02:832][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 2.62 sec)
+[2025.02.12-20.47.02:834][269]AssetCheck: New page: Asset Save: ABP_MyCharacter
+[2025.02.12-20.47.02:834][269]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter
+[2025.02.12-20.47.04:438][426]BlueprintLog: New page: Compile ABP_MyCharacter
+[2025.02.12-20.47.04:528][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.02.12-20.47.46:395][448]BlueprintLog: New page: Compile ABP_MyCharacter
+[2025.02.12-20.47.46:490][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.02.12-20.47.51:574][616]LogViewport: Scene viewport resized to 398x322, mode Windowed.
+[2025.02.12-20.47.53:028][752]LogViewport: Scene viewport resized to 854x554, mode Windowed.
+[2025.02.12-20.47.54:182][848]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-20.47.54:187][848]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.12-20.47.54:187][848]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.12-20.47.54:188][848]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 11 ms)
+[2025.02.12-20.47.54:188][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-20.47.54:188][848]PIE: New page: PIE session: ThirdPersonMap (12 Feb 2025, 22:47:54)
+[2025.02.12-20.47.54:189][848]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2025.02.12-20.47.54:191][848]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.02.12-20.47.54:201][849]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-20.47.54:204][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003650s)
+[2025.02.12-20.47.54:204][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003689s)
+[2025.02.12-20.47.54:220][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.02.12-20.47.54:223][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-20.47.54:223][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-20.47.54:223][849]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.12-20.47.54:224][849]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.12-20.47.54:224][849]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.12-20.47.54:224][849]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.12-20.47.54:224][849]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.12-20.47.54:224][849]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.12-20.47.54:224][849]LogWorldPartition: Display: WorldPartition initialize took 959 us (total: 60 ms)
+[2025.02.12-20.47.54:224][849]LogPlayLevel: PIE: World Init took: (0.002105s)
+[2025.02.12-20.47.54:224][849]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.02.12-20.47.54:224][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-20.47.54:224][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-20.47.54:224][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-20.47.54:224][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-20.47.54:224][849]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-20.47.54:224][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-20.47.54:224][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-20.47.54:224][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-20.47.54:225][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-20.47.54:225][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-20.47.54:225][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-20.47.54:227][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-20.47.54:246][849]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.02.12-20.47.54:246][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-20.47.54:247][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-20.47.54:247][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-20.47.54:247][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.02.12-20.47.54:247][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.02.12-20.47.54:249][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.02.12-20.47.54:249][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.02.12-20.47.54:249][849]LogInit: FAudioDevice initialized with ID 9.
+[2025.02.12-20.47.54:249][849]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2025.02.12-20.47.54:249][849]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.02.12-20.47.54:308][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-20.47.54:308][849]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-20.47.54:310][849]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.12-21.47.54
+[2025.02.12-20.47.54:310][849]LogWorld: Bringing up level for play took: 0.001964
+[2025.02.12-20.47.54:314][849]PIE: Server logged in
+[2025.02.12-20.47.54:316][849]PIE: Play in editor total start time 0.13 seconds.
+[2025.02.12-20.47.54:331][849]LogViewport: Scene viewport resized to 1536x1330, mode Windowed.
+[2025.02.12-20.47.58:797][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-20.47.58:797][158]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-20.47.58:797][158]LogSlate: Window 'AnimacionesGuays Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.02.12-20.47.58:804][158]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-20.47.58:804][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.47.58:804][158]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.12-20.47.58:808][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-20.47.58:813][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.47.58:828][158]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.12-20.47.58:828][158]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.02.12-20.47.58:829][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.02.12-20.47.58:831][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.02.12-20.47.58:838][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.02.12-20.47.58:880][159]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.02.12-20.48.00:797][324]LogViewport: Scene viewport resized to 398x322, mode Windowed.
+[2025.02.12-20.48.01:368][324]LogViewport: Scene viewport resized to 422x550, mode Windowed.
+[2025.02.12-20.49.43:923][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.02.12-20.49.43:926][213]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2025.02.12-20.49.43:927][213]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/MiPersonaje/ABP_MyCharacter] ([2] browsable assets)...
+[2025.02.12-20.49.43:966][213]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter]
+[2025.02.12-20.49.43:966][213]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/MiPersonaje/ABP_MyCharacter]
+[2025.02.12-20.49.44:118][213]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/MiPersonaje/ABP_MyCharacter_Auto2
+[2025.02.12-20.49.44:118][213]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacter_Auto2EC9519214280B615180400802703F1FB.tmp' to 'D:/Unreal Projects/TheCore_Animations/Saved/Autosaves/Game/Characters/MiPersonaje/ABP_MyCharacter_Auto2.uasset'
+[2025.02.12-20.49.44:119][213]LogFileHelpers: Auto-saving content packages took 0.193
+[2025.02.12-20.50.31:499][357]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20859.929688
+[2025.02.12-20.50.32:487][360]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-20.50.32:487][360]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20860.585938, Update Interval: 338.134705
+[2025.02.12-20.54.41:278][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.54.41:345][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/ABP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset" SILENT=true
+[2025.02.12-20.54.41:473][  9]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/ABP_MyCharacter
+[2025.02.12-20.54.41:473][  9]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacter52641B2C42B7F2250220869A04F70AB9.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset'
+[2025.02.12-20.54.41:481][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 2.83 sec)
+[2025.02.12-20.54.41:483][  9]AssetCheck: New page: Asset Save: ABP_MyCharacter
+[2025.02.12-20.54.41:483][  9]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter
+[2025.02.12-20.54.43:256][172]BlueprintLog: New page: Compile ABP_MyCharacter
+[2025.02.12-20.54.43:351][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.02.12-20.54.44:821][294]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-20.54.44:826][294]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.12-20.54.44:826][294]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.12-20.54.44:829][294]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 14 ms)
+[2025.02.12-20.54.44:829][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-20.54.44:829][294]PIE: New page: PIE session: ThirdPersonMap (12 Feb 2025, 22:54:44)
+[2025.02.12-20.54.44:859][294]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2025.02.12-20.54.44:861][294]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.02.12-20.54.44:877][295]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-20.54.44:881][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003761s)
+[2025.02.12-20.54.44:881][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003795s)
+[2025.02.12-20.54.44:898][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.02.12-20.54.44:900][295]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-20.54.44:901][295]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-20.54.44:901][295]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.12-20.54.44:901][295]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.12-20.54.44:901][295]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.12-20.54.44:901][295]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.12-20.54.44:902][295]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.12-20.54.44:903][295]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.12-20.54.44:903][295]LogWorldPartition: Display: WorldPartition initialize took 972 us (total: 61 ms)
+[2025.02.12-20.54.44:903][295]LogPlayLevel: PIE: World Init took: (0.002112s)
+[2025.02.12-20.54.44:903][295]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.02.12-20.54.44:903][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-20.54.44:903][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-20.54.44:903][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-20.54.44:903][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-20.54.44:903][295]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-20.54.44:903][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-20.54.44:903][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-20.54.44:903][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-20.54.44:904][295]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-20.54.44:904][295]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-20.54.44:904][295]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-20.54.44:906][295]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-20.54.44:925][295]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.02.12-20.54.44:926][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-20.54.44:926][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-20.54.44:926][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-20.54.44:926][295]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.02.12-20.54.44:926][295]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.02.12-20.54.44:928][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.02.12-20.54.44:928][295]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.02.12-20.54.44:928][295]LogInit: FAudioDevice initialized with ID 10.
+[2025.02.12-20.54.44:928][295]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2025.02.12-20.54.44:928][295]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.02.12-20.54.44:930][295]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-20.54.44:932][295]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.12-21.54.44
+[2025.02.12-20.54.44:932][295]LogWorld: Bringing up level for play took: 0.001680
+[2025.02.12-20.54.44:935][295]PIE: Server logged in
+[2025.02.12-20.54.44:936][295]PIE: Play in editor total start time 0.11 seconds.
+[2025.02.12-20.56.08:757][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-20.56.08:757][341]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-20.56.08:757][341]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-20.56.08:757][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.56.08:757][341]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.12-20.56.08:761][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-20.56.08:765][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.56.08:783][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.12-20.56.08:783][341]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.02.12-20.56.08:783][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.02.12-20.56.08:785][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.02.12-20.56.08:789][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-20.56.08:792][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.02.12-20.56.08:851][343]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.02.12-20.56.22:885][211]BlueprintLog: New page: Compile ABP_MyCharacter
+[2025.02.12-20.56.22:975][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.02.12-20.56.24:633][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.56.24:698][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/ABP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset" SILENT=true
+[2025.02.12-20.56.24:830][345]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/ABP_MyCharacter
+[2025.02.12-20.56.24:830][345]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacter6BF0F03E4A5422669D1B5FB8240A1564.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset'
+[2025.02.12-20.56.24:840][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 3.03 sec)
+[2025.02.12-20.56.24:843][345]AssetCheck: New page: Asset Save: ABP_MyCharacter
+[2025.02.12-20.56.24:843][345]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter
+[2025.02.12-20.56.26:737][516]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-20.56.26:742][516]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.12-20.56.26:742][516]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.12-20.56.26:744][516]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 15 ms)
+[2025.02.12-20.56.26:744][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-20.56.26:744][516]PIE: New page: PIE session: ThirdPersonMap (12 Feb 2025, 22:56:26)
+[2025.02.12-20.56.26:767][516]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2025.02.12-20.56.26:769][516]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.02.12-20.56.26:784][517]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-20.56.26:788][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003634s)
+[2025.02.12-20.56.26:788][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003676s)
+[2025.02.12-20.56.26:803][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.02.12-20.56.26:806][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-20.56.26:806][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-20.56.26:807][517]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.12-20.56.26:807][517]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.12-20.56.26:807][517]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.12-20.56.26:807][517]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.12-20.56.26:807][517]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.12-20.56.26:808][517]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.12-20.56.26:808][517]LogWorldPartition: Display: WorldPartition initialize took 982 us (total: 62 ms)
+[2025.02.12-20.56.26:808][517]LogPlayLevel: PIE: World Init took: (0.002034s)
+[2025.02.12-20.56.26:808][517]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.02.12-20.56.26:808][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-20.56.26:808][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-20.56.26:808][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-20.56.26:808][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-20.56.26:808][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-20.56.26:808][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-20.56.26:808][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-20.56.26:808][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-20.56.26:809][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-20.56.26:809][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-20.56.26:809][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-20.56.26:811][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-20.56.26:829][517]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.02.12-20.56.26:829][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-20.56.26:829][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-20.56.26:829][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-20.56.26:830][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.02.12-20.56.26:830][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.02.12-20.56.26:832][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.02.12-20.56.26:832][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.02.12-20.56.26:832][517]LogInit: FAudioDevice initialized with ID 11.
+[2025.02.12-20.56.26:832][517]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2025.02.12-20.56.26:832][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.02.12-20.56.26:834][517]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-20.56.26:836][517]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.12-21.56.26
+[2025.02.12-20.56.26:836][517]LogWorld: Bringing up level for play took: 0.001630
+[2025.02.12-20.56.26:839][517]PIE: Server logged in
+[2025.02.12-20.56.26:839][517]PIE: Play in editor total start time 0.097 seconds.
+[2025.02.12-20.56.49:576][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-20.56.49:576][228]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-20.56.49:576][228]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-20.56.49:576][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.56.49:576][228]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.12-20.56.49:580][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-20.56.49:584][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.56.49:599][228]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.12-20.56.49:599][228]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.02.12-20.56.49:599][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.02.12-20.56.49:601][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.02.12-20.56.49:605][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-20.56.49:609][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.02.12-20.56.49:665][230]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.02.12-20.56.49:759][240]Cmd: SELECT NONE
+[2025.02.12-20.56.56:254][847]BlueprintLog: New page: Compile ABP_MyCharacter
+[2025.02.12-20.56.56:347][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.02.12-20.57.03:976][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21249.314453
+[2025.02.12-20.57.04:110][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-20.57.04:110][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21249.437500, Update Interval: 315.540649
+[2025.02.12-20.57.08:014][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.57.08:078][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/ABP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset" SILENT=true
+[2025.02.12-20.57.08:210][839]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/ABP_MyCharacter
+[2025.02.12-20.57.08:210][839]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacterA8E5341740E70384DAE9D08C45FCDB61.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset'
+[2025.02.12-20.57.08:218][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 3.24 sec)
+[2025.02.12-20.57.08:221][839]AssetCheck: New page: Asset Save: ABP_MyCharacter
+[2025.02.12-20.57.08:221][839]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter
+[2025.02.12-20.57.10:442][ 43]BlueprintLog: New page: Compile ABP_MyCharacter
+[2025.02.12-20.57.10:536][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.02.12-20.57.12:428][216]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-20.57.12:433][216]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.12-20.57.12:433][216]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.12-20.57.12:434][216]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 17 ms)
+[2025.02.12-20.57.12:434][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-20.57.12:434][216]PIE: New page: PIE session: ThirdPersonMap (12 Feb 2025, 22:57:12)
+[2025.02.12-20.57.12:456][216]LogPlayLevel: Display: Creating online subsystem for client :Context_38
+[2025.02.12-20.57.12:458][216]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.02.12-20.57.12:473][217]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-20.57.12:477][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003604s)
+[2025.02.12-20.57.12:477][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003641s)
+[2025.02.12-20.57.12:495][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.12-20.57.12:498][217]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-20.57.12:498][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-20.57.12:499][217]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.12-20.57.12:499][217]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.12-20.57.12:499][217]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.12-20.57.12:499][217]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.12-20.57.12:499][217]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.12-20.57.12:500][217]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.12-20.57.12:500][217]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 63 ms)
+[2025.02.12-20.57.12:500][217]LogPlayLevel: PIE: World Init took: (0.002518s)
+[2025.02.12-20.57.12:500][217]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.02.12-20.57.12:500][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-20.57.12:500][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-20.57.12:500][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-20.57.12:500][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-20.57.12:501][217]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-20.57.12:501][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-20.57.12:501][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-20.57.12:501][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-20.57.12:502][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-20.57.12:502][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-20.57.12:502][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-20.57.12:503][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-20.57.12:524][217]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.02.12-20.57.12:524][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-20.57.12:524][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-20.57.12:524][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-20.57.12:524][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.02.12-20.57.12:524][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.02.12-20.57.12:527][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.02.12-20.57.12:527][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.02.12-20.57.12:527][217]LogInit: FAudioDevice initialized with ID 12.
+[2025.02.12-20.57.12:527][217]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2025.02.12-20.57.12:527][217]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.02.12-20.57.12:529][217]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-20.57.12:531][217]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.12-21.57.12
+[2025.02.12-20.57.12:531][217]LogWorld: Bringing up level for play took: 0.001621
+[2025.02.12-20.57.12:533][217]PIE: Server logged in
+[2025.02.12-20.57.12:534][217]PIE: Play in editor total start time 0.102 seconds.
+[2025.02.12-20.58.02:645][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-20.58.02:645][206]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-20.58.02:645][206]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-20.58.02:646][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.58.02:646][206]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.12-20.58.02:649][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-20.58.02:654][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.58.02:670][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.12-20.58.02:670][206]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.02.12-20.58.02:670][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.02.12-20.58.02:672][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.02.12-20.58.02:676][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-20.58.02:680][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.02.12-20.58.02:735][208]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.02.12-20.58.03:170][254]Cmd: SELECT NONE
+[2025.02.12-20.58.14:593][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.58.14:660][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/ABP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset" SILENT=true
+[2025.02.12-20.58.14:793][143]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/ABP_MyCharacter
+[2025.02.12-20.58.14:794][143]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacter4815F74C4ED543B4AFFDB992170A750C.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset'
+[2025.02.12-20.58.14:800][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 3.45 sec)
+[2025.02.12-20.58.14:802][143]AssetCheck: New page: Asset Save: ABP_MyCharacter
+[2025.02.12-20.58.14:802][143]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter
+[2025.02.12-20.58.15:429][205]BlueprintLog: New page: Compile ABP_MyCharacter
+[2025.02.12-20.58.15:520][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.12-20.58.15:875][224]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 984...f4d
+[2025.02.12-20.58.15:875][224]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.552e+07
+[2025.02.12-20.58.16:113][248]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 984...f4d Access[Expires: 2025.02.12-22.58.16 Remaining: 7200.06] Refresh[Expires: 2025-08-11T11:21:50.570Z Remaining: 15517414.57] State: Valid
+[2025.02.12-20.58.16:420][280]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-20.58.16:425][280]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.12-20.58.16:425][280]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.12-20.58.16:426][280]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 18 ms)
+[2025.02.12-20.58.16:426][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-20.58.16:426][280]PIE: New page: PIE session: ThirdPersonMap (12 Feb 2025, 22:58:16)
+[2025.02.12-20.58.16:455][280]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2025.02.12-20.58.16:457][280]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.02.12-20.58.16:471][281]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-20.58.16:475][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003575s)
+[2025.02.12-20.58.16:475][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003615s)
+[2025.02.12-20.58.16:493][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.02.12-20.58.16:495][281]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-20.58.16:495][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-20.58.16:495][281]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.12-20.58.16:495][281]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.12-20.58.16:495][281]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.12-20.58.16:495][281]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.12-20.58.16:495][281]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.12-20.58.16:496][281]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.12-20.58.16:496][281]LogWorldPartition: Display: WorldPartition initialize took 946 us (total: 64 ms)
+[2025.02.12-20.58.16:496][281]LogPlayLevel: PIE: World Init took: (0.001932s)
+[2025.02.12-20.58.16:496][281]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.02.12-20.58.16:496][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-20.58.16:496][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-20.58.16:496][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-20.58.16:496][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-20.58.16:496][281]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-20.58.16:496][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-20.58.16:496][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-20.58.16:496][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-20.58.16:497][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-20.58.16:497][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-20.58.16:497][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-20.58.16:499][281]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-20.58.16:518][281]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.02.12-20.58.16:518][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-20.58.16:518][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-20.58.16:518][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-20.58.16:518][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.02.12-20.58.16:518][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.02.12-20.58.16:520][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.02.12-20.58.16:520][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.02.12-20.58.16:520][281]LogInit: FAudioDevice initialized with ID 13.
+[2025.02.12-20.58.16:520][281]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2025.02.12-20.58.16:521][281]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.02.12-20.58.16:523][281]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-20.58.16:524][281]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.12-21.58.16
+[2025.02.12-20.58.16:525][281]LogWorld: Bringing up level for play took: 0.001659
+[2025.02.12-20.58.16:527][281]PIE: Server logged in
+[2025.02.12-20.58.16:528][281]PIE: Play in editor total start time 0.103 seconds.
+[2025.02.12-20.58.22:705][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-20.58.22:705][  9]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-20.58.22:705][  9]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-20.58.22:705][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.58.22:705][  9]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.12-20.58.22:708][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-20.58.22:712][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-20.58.22:726][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.12-20.58.22:727][  9]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.02.12-20.58.22:727][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.02.12-20.58.22:728][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.02.12-20.58.22:732][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-20.58.22:735][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.02.12-20.58.22:791][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.02.12-20.58.45:982][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.58.46:050][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/ABP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset" SILENT=true
+[2025.02.12-20.58.46:184][925]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/ABP_MyCharacter
+[2025.02.12-20.58.46:185][925]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacterD6153A194A4BB1078B953B8A4FDD7956.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset'
+[2025.02.12-20.58.46:192][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 3.66 sec)
+[2025.02.12-20.58.46:195][925]AssetCheck: New page: Asset Save: ABP_MyCharacter
+[2025.02.12-20.58.46:195][925]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter
+[2025.02.12-20.58.57:646][731]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2025.02.12-20.59.51:819][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.02.12-20.59.51:825][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-20.59.51:906][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/ABP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset" SILENT=true
+[2025.02.12-20.59.52:035][168]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/ABP_MyCharacter
+[2025.02.12-20.59.52:035][168]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacter1D4E74374CF0D56F571E15B4FF4712B3.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset'
+[2025.02.12-20.59.52:043][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 3.87 sec)
+[2025.02.12-20.59.52:045][168]AssetCheck: New page: Asset Save: ABP_MyCharacter
+[2025.02.12-20.59.52:045][168]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter
+[2025.02.12-21.01.44:055][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-21.01.44:119][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/ABP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset" SILENT=true
+[2025.02.12-21.01.44:266][518]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/ABP_MyCharacter
+[2025.02.12-21.01.44:266][518]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacter0EFB4922478BDA3450BC3BA25D14F098.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset'
+[2025.02.12-21.01.44:273][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 4.09 sec)
+[2025.02.12-21.01.44:275][518]AssetCheck: New page: Asset Save: ABP_MyCharacter
+[2025.02.12-21.01.44:276][518]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter
+[2025.02.12-21.02.56:957][602]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21600.179688
+[2025.02.12-21.02.57:161][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-21.02.57:161][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21600.367188, Update Interval: 330.863373
+[2025.02.12-21.04.03:802][915]BlueprintLog: New page: Compile ABP_MyCharacter
+[2025.02.12-21.04.03:914][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.02.12-21.04.04:776][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-21.04.04:834][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/ABP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset" SILENT=true
+[2025.02.12-21.04.04:989][967]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/ABP_MyCharacter
+[2025.02.12-21.04.04:989][967]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacterA24B0E644BE5190D8B274599C9C2F88A.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset'
+[2025.02.12-21.04.04:999][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 4.32 sec)
+[2025.02.12-21.04.05:002][967]AssetCheck: New page: Asset Save: ABP_MyCharacter
+[2025.02.12-21.04.05:002][967]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter
+[2025.02.12-21.04.06:561][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-21.04.06:566][ 85]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.12-21.04.06:566][ 85]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.12-21.04.06:568][ 85]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 20 ms)
+[2025.02.12-21.04.06:568][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-21.04.06:568][ 85]PIE: New page: PIE session: ThirdPersonMap (12 Feb 2025, 23:04:06)
+[2025.02.12-21.04.06:598][ 85]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2025.02.12-21.04.06:600][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.02.12-21.04.06:616][ 86]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-21.04.06:620][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003926s)
+[2025.02.12-21.04.06:620][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003964s)
+[2025.02.12-21.04.06:637][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.02.12-21.04.06:638][ 86]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-21.04.06:638][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-21.04.06:639][ 86]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.12-21.04.06:639][ 86]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.12-21.04.06:639][ 86]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.12-21.04.06:639][ 86]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.12-21.04.06:639][ 86]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.12-21.04.06:641][ 86]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.12-21.04.06:641][ 86]LogWorldPartition: Display: WorldPartition initialize took 966 us (total: 65 ms)
+[2025.02.12-21.04.06:641][ 86]LogPlayLevel: PIE: World Init took: (0.002101s)
+[2025.02.12-21.04.06:641][ 86]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.02.12-21.04.06:641][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-21.04.06:641][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-21.04.06:641][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-21.04.06:641][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-21.04.06:641][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-21.04.06:641][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-21.04.06:641][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-21.04.06:641][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-21.04.06:641][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-21.04.06:641][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-21.04.06:641][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-21.04.06:643][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-21.04.06:663][ 86]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.02.12-21.04.06:663][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-21.04.06:664][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-21.04.06:664][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-21.04.06:664][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.02.12-21.04.06:664][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.02.12-21.04.06:666][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.02.12-21.04.06:666][ 86]LogInit: FAudioDevice initialized with ID 14.
+[2025.02.12-21.04.06:666][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.02.12-21.04.06:666][ 86]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2025.02.12-21.04.06:666][ 86]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.02.12-21.04.06:668][ 86]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-21.04.06:670][ 86]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.12-22.04.06
+[2025.02.12-21.04.06:671][ 86]LogWorld: Bringing up level for play took: 0.001766
+[2025.02.12-21.04.06:672][ 86]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.12-21.04.06:672][ 86]LogScript: Warning: Script Msg called by: ABP_MyCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MyCharacter_C_0.CharacterMesh0.ABP_MyCharacter_C_0
+[2025.02.12-21.04.06:673][ 86]PIE: Server logged in
+[2025.02.12-21.04.06:674][ 86]PIE: Play in editor total start time 0.108 seconds.
+[2025.02.12-21.05.02:346][752]LogDerivedDataCache: C:/Users/frans/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.120 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3503 files in 4343 folders with total size 55 MiB.
+[2025.02.12-21.05.13:457][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-21.05.13:457][ 79]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-21.05.13:457][ 79]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-21.05.13:458][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-21.05.13:458][ 79]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.12-21.05.13:462][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-21.05.13:467][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-21.05.13:480][ 79]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.12-21.05.13:480][ 79]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.02.12-21.05.13:480][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.02.12-21.05.13:482][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.02.12-21.05.13:484][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-21.05.13:488][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.12-21.05.13:547][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.02.12-21.05.18:281][204]LogViewport: Scene viewport resized to 1004x741, mode Windowed.
+[2025.02.12-21.05.19:600][306]LogViewport: Scene viewport resized to 2155x1205, mode Windowed.
+[2025.02.12-21.06.40:042][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-21.06.40:211][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-21.06.40:257][185]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-21.06.40:282][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-21.06.40:452][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-21.07.18:721][712]LogViewport: Scene viewport resized to 1736x609, mode Windowed.
+[2025.02.12-21.07.27:838][629]LogViewport: Scene viewport resized to 854x554, mode Windowed.
+[2025.02.12-21.09.19:328][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21982.175781
+[2025.02.12-21.09.19:637][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.12-21.09.19:637][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21982.470703, Update Interval: 318.481384
+[2025.02.12-21.11.10:355][786]LogEditorTransaction: Undo Delete current selection
+[2025.02.12-21.11.10:700][786]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.12-21.11.10:703][786]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.12-21.12.59:599][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.12-21.12.59:663][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MiPersonaje/ABP_MyCharacter" FILE="D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset" SILENT=true
+[2025.02.12-21.12.59:796][ 41]LogSavePackage: Moving output files for package: /Game/Characters/MiPersonaje/ABP_MyCharacter
+[2025.02.12-21.12.59:796][ 41]LogSavePackage: Moving 'D:/Unreal Projects/TheCore_Animations/Saved/ABP_MyCharacterD3A442EE4589DFAECB33BFA37FD715B9.tmp' to 'D:/Unreal Projects/TheCore_Animations/Content/Characters/MiPersonaje/ABP_MyCharacter.uasset'
+[2025.02.12-21.12.59:803][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 4.52 sec)
+[2025.02.12-21.12.59:806][ 41]AssetCheck: New page: Asset Save: ABP_MyCharacter
+[2025.02.12-21.12.59:806][ 41]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/MiPersonaje/ABP_MyCharacter.ABP_MyCharacter
+[2025.02.12-21.13.00:478][ 76]BlueprintLog: New page: Compile ABP_MyCharacter
+[2025.02.12-21.13.00:747][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.02.12-21.13.04:646][313]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.12-21.13.04:650][313]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.12-21.13.04:650][313]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.12-21.13.04:652][313]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 22 ms)
+[2025.02.12-21.13.04:652][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.12-21.13.04:652][313]PIE: New page: PIE session: ThirdPersonMap (12 Feb 2025, 23:13:04)
+[2025.02.12-21.13.04:677][313]LogPlayLevel: Display: Creating online subsystem for client :Context_46
+[2025.02.12-21.13.04:680][313]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.02.12-21.13.04:700][314]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-21.13.04:706][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005906s)
+[2025.02.12-21.13.04:706][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005954s)
+[2025.02.12-21.13.04:725][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.02.12-21.13.04:731][314]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.12-21.13.04:731][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.12-21.13.04:732][314]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.02.12-21.13.04:732][314]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.12-21.13.04:732][314]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.12-21.13.04:732][314]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.12-21.13.04:732][314]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.12-21.13.04:733][314]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.02.12-21.13.04:733][314]LogWorldPartition: Display: WorldPartition initialize took 965 us (total: 66 ms)
+[2025.02.12-21.13.04:733][314]LogPlayLevel: PIE: World Init took: (0.002119s)
+[2025.02.12-21.13.04:733][314]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.02.12-21.13.04:733][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.12-21.13.04:733][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.12-21.13.04:733][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.12-21.13.04:733][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.12-21.13.04:733][314]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.12-21.13.04:733][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.12-21.13.04:733][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.12-21.13.04:733][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.12-21.13.04:734][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.12-21.13.04:734][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.12-21.13.04:734][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.12-21.13.04:736][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.12-21.13.04:756][314]LogAudioMixer: Display: Using Audio Hardware Device Acer X34 P (NVIDIA High Definition Audio)
+[2025.02.12-21.13.04:756][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.12-21.13.04:756][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.12-21.13.04:756][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.12-21.13.04:756][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.02.12-21.13.04:756][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.02.12-21.13.04:758][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.02.12-21.13.04:758][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.02.12-21.13.04:758][314]LogInit: FAudioDevice initialized with ID 15.
+[2025.02.12-21.13.04:758][314]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2025.02.12-21.13.04:758][314]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.12-21.13.04:761][314]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.12-21.13.04:762][314]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.02.12-22.13.04
+[2025.02.12-21.13.04:763][314]LogWorld: Bringing up level for play took: 0.001688
+[2025.02.12-21.13.04:764][314]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.02.12-21.13.04:764][314]LogScript: Warning: Script Msg called by: ABP_MyCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MyCharacter_C_0.CharacterMesh0.ABP_MyCharacter_C_0
+[2025.02.12-21.13.04:766][314]PIE: Server logged in
+[2025.02.12-21.13.04:767][314]PIE: Play in editor total start time 0.116 seconds.
+[2025.02.12-21.13.52:567][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-21.13.52:567][997]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.12-21.13.52:567][997]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.12-21.13.52:567][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-21.13.52:567][997]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.02.12-21.13.52:571][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.12-21.13.52:577][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.12-21.13.52:591][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.12-21.13.52:591][997]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.02.12-21.13.52:592][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.12-21.13.52:594][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.02.12-21.13.52:598][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.12-21.13.52:601][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.02.12-21.13.52:677][  0]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.02.12-21.14.20:323][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
